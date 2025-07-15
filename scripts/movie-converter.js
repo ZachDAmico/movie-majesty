@@ -32,3 +32,4 @@ export const generateMoviesHTML = () => {
 // Finally, we return the movieHTML string containing the generated HTML markup for all the movies.
 
 // the concatenation is the creating of individual html strings for each movie and combining each of those individual strings into one larger string that's called movieHTML here
+// The generated HTML markup for each movie is concatenated into the movieHTML string, which is then returned by the function. This allows us to obtain the complete HTML markup for all the movies.
